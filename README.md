@@ -15,7 +15,7 @@ Welcome to my dotfiles repository! This collection contains configurations and s
 ## Authors
 
 - [@DakshPandey](https://github.com/Daksh-Pandey12)
-
+ 
 ## 🚀 About The author
 Hello! I’m a 14-year-old full-time learner with a curiosity that knows no bounds. I love diving into new subjects and exploring the world around me. Whether it’s science, technology, art, or literature, I’m always on the lookout for new knowledge and experiences.
 
