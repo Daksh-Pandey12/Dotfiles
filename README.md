@@ -33,7 +33,7 @@ Feel free to connect with me and share your interests—let’s learn together!
 - License
 
 ## 🔗 Links
-[![portfolio]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notreal_smash)
+[![portfolio]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daksh_pandey12/)
 [![linkedin](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/Any_Tip1660//)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
